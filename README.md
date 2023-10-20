@@ -19,3 +19,14 @@ Having PostgreSQL (preferable, version 14.9 or later) installed on your machine,
  - Import data from *Data* directory one by one (be sure to use same order as for creation of respective tables). The name of each CSV file corresponds to a table name.
  - Execute the queries in the *Data_Analysis_Employees.sql* script using your PostgreSQL client.
 ## Output
+#### ERD
+   ![ERD](https://github.com/ValentynaK17/sql-challenge/blob/main/Output/Employees_ERD.png)
+#### SQL scripts:
+![Attributes of all the employees](https://github.com/ValentynaK17/sql-challenge/blob/main/Output/ALL%20Employees'%20attr.png)
+![Hired 1986](https://github.com/ValentynaK17/sql-challenge/blob/main/Output/Hired_1986.png)
+![manager of each department](https://github.com/ValentynaK17/sql-challenge/blob/main/Output/Managers_of_Departments.png)
+![department number for each employee](https://github.com/ValentynaK17/sql-challenge/blob/main/Output/Employees_Departments.png)
+![BHercules](https://github.com/ValentynaK17/sql-challenge/blob/main/Output/B...Hercules_Employee.png)
+![employee in the Sales department](https://github.com/ValentynaK17/sql-challenge/blob/main/Output/Employees_from_Sales_Department.png)
+![employee in the Sales and Development departments](https://github.com/ValentynaK17/sql-challenge/blob/main/Output/Employees_from_SalesORDevelopment.png)
+![frequency counts of all the employee last names](https://github.com/ValentynaK17/sql-challenge/blob/main/Output/EmployeeSame_Names.png)
